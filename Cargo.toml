@@ -1,0 +1,8 @@
+[package]
+name = "greaters"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+datafusion = "41.0.0"
+tokio = "1.39.2"
